@@ -45,6 +45,7 @@ Campaign performance was relatively consistent across all marketing channels, wi
 All marketing channels perform very similarly, with only marginal differences in ROI and conversion rates.
 
 <a href="url"><img src="https://github.com/patrick-curry/MySQL_Capstone_Project/blob/main/gdapsql2.jpg" width="500" ></a>
+
 Customer responsiveness across segments is very consistent, with only small differences in conversion rates and ROI.
 
 <a href="url"><img src="https://github.com/patrick-curry/MySQL_Capstone_Project/blob/main/gdapsql3.jpg" width="500" ></a>

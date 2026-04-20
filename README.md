@@ -1,5 +1,5 @@
 # Capstone Project: Data Processing and Analysis Using MySQL
-Analyzed marketing campaign data in MySQL by cleaning and transforming datasets, engineering a custom ROI metric, and evaluating channel performance, conversion rates, and cost efficiency to identify key drivers of marketing effectiveness.
+Analyzed marketing campaign data in MySQL for my Google Data Analytics Professional Certificate by cleaning and transforming datasets, engineering a custom ROI metric, and evaluating channel performance, conversion rates, and cost efficiency to identify key drivers of marketing effectiveness.
 
 Identify which marketing campaigns, channels, and customer segments drive the highest conversion and ROI:
 - Question: Which campaigns perform best?

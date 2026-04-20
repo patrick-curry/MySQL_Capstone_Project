@@ -35,13 +35,20 @@ Tracked ROI trends over time to identify performance patterns.
 Derived actionable insights on performance, efficiency, and trends to support data-driven decision-making.
 
 # Insights:
-[img1]
+![gdapsql1.jpg](https://github.com/patrick-curry/MySQL_Capstone_Project/blob/main/gdapsql1.jpg)
+
 Campaign performance was relatively consistent across all marketing channels, with only marginal differences in conversion rates and ROI. Overall, the differences between campaigns were minimal, suggesting that no single campaign type overwhelmingly outperformed others.
-[img4]
+
+![gdapsql4.jpg](https://github.com/patrick-curry/MySQL_Capstone_Project/blob/main/gdapsql4.jpg)
+
 All marketing channels perform very similarly, with only marginal differences in ROI and conversion rates.
-[img2]
+
+![gdapsql2.jpg](https://github.com/patrick-curry/MySQL_Capstone_Project/blob/main/gdapsql2.jpg)
+
 Customer responsiveness across segments is very consistent, with only small differences in conversion rates and ROI.
-[img3]
+
+![gdapsql3.jpg](https://github.com/patrick-curry/MySQL_Capstone_Project/blob/main/gdapsql3.jpg)
+
 Analysis of engagement, cost, channels, and customer segments shows no strong individual factor driving conversion performance.
 
 

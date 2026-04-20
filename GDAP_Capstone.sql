@@ -122,11 +122,12 @@ GROUP BY 1;
 ## all channels average 12500$ and avgROI 4.9-5
 
 #Analysis by Time
-SELECT
-  DATE_FORMAT(Date, '%Y-%m') AS month,
-  AVG(ROI),
-  AVG(Conversion_Rate)
-FROM marketing_campaign_dataset
+SELECT 
+    DATE_FORMAT(Date, '%Y-%m') AS month,
+    AVG(ROI),
+    AVG(Conversion_Rate)
+FROM
+    marketing_campaign_dataset
 GROUP BY month
 ORDER BY month;
 ## Each month shows a AvgROI 4.9-5 and avgConv .079-.08

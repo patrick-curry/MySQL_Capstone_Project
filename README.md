@@ -9,7 +9,8 @@ Identify which marketing campaigns, channels, and customer segments drive the hi
 
 ## Data:
 The Marketing Campaign Performance Dataset provides valuable insights into the effectiveness of various marketing campaigns. This dataset captures the performance metrics, target audience, duration, channels used, and other essential factors that contribute to the success of marketing initiatives. With 200000 unique rows of data spanning two years, this dataset offers a comprehensive view of campaign performance across diverse companies and customer segments.
-Data was provided by a [Kaggle link](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)
+
+Data was provided by a [Kaggle link](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset).
 
 ## Process:
 - Data Ingestion:
